@@ -19,13 +19,13 @@ Sunday                   19 commits          █░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Madrid
+🕑︎ Time Zone: African/oujda
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
+Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
